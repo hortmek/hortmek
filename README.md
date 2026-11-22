@@ -45,5 +45,5 @@ Trabalho com Engenharia de Detecção, Threat Intelligence e Resposta a Incident
 
 <br>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hortmek&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="160">
+<img src="https://streak-stats.demolab.com?user=hortmek&theme=highcontrast" alt="GitHub Streak" height="160">
 </p>
